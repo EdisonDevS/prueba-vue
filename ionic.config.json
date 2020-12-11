@@ -1,0 +1,8 @@
+{
+  "name": "prueba_vue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "d2f6b6c1"
+}
